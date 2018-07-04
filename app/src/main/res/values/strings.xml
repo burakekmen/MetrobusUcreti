@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Metrobüs Ücreti</string>
+    <string name="spinner_kalkis_title">Kalkış Durağı</string>
+    <string name="spinner_varis_title">Varış Durağı</string>
+
+    <string name="tamBilet">Tam</string>
+    <string name="ogrenciBilet">Öğrenci</string>
+    <string name="ogrentmenBilet">Öğretmen</string>
+    <string name="yasliBilet">60 Yaş</string>
+</resources>
